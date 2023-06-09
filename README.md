@@ -2,6 +2,17 @@
 - 👀 I’m interested in anything that involves programming and computer hardware.
 - 🌱 I’m currently learning Bs. Computer Engineering at HITEC University, Taxila, Punjab, Pakistan.
 - 💞️ I’m looking to collaborate on projects in Web Development, cross-platform mobile app development, and hardware design
+-    Languages:
+-         C/C++
+-         JavaScript
+-         Python
+-         PHP
+-         MySQL
+-         HTML
+-         CSS (Bootstrap)
+-         React Native
+-         Matlab
+-         Verilog HDL 
 - 📫 How to reach me:
 -             Personal Email: rajabdullah236@gmail.com
 -             University Email: 20-ce-035@student.hitecuni.edu.pk
