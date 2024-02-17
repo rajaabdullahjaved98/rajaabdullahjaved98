@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Bs. Computer Engineering at HITEC University, Taxila, Punjab, Pakistan.
 - 💞️ I’m looking to collaborate on projects in Web Development, cross-platform mobile app development, and hardware design
 -    Languages:
+-         Java
+-         Xml
 -         C/C++
 -         JavaScript
 -         Python
