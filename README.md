@@ -1,23 +1,26 @@
-- 👋 Hi, I’m @rajaabdullahjaved98
-- 👀 I’m interested in anything that involves programming and computer hardware.
-- 🌱 I’m currently learning Bs. Computer Engineering at HITEC University, Taxila, Punjab, Pakistan.
-- 💞️ I’m looking to collaborate on projects in Web Development, cross-platform mobile app development, and hardware design
--    Languages:
--         Java
--         Xml
--         C/C++
--         JavaScript
--         Python
--         PHP
--         MySQL
--         HTML
--         CSS (Bootstrap)
--         React Native
--         Matlab
--         Verilog HDL 
+👋 Hi there! I'm a passionate Software Engineer with a strong background in Mobile App Development and Embedded Systems. Currently working as an Embedded System Engineer, I develop GUIs for touchscreen devices and mobile apps for IoT-enabled products. I enjoy creating innovative solutions that connect hardware and software, especially in the realm of IoT.
+
+🌱 Currently working on:
+
+IoT-enabled Mobile Apps: Building Android/iOS apps for controlling devices like air conditioners with ESP32 integration.
+
+Exploring Wi-Fi and Bluetooth control mechanisms for smart home solutions.
+
+🔧 Skills:
+
+Mobile Development: Flutter, Dart, Android Studio, Java
+
+Embedded Systems: ESP32, IoT protocols
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: PHP, MySQL, Firebase, Firestore
+
+Additional Tools: Twilio, Cloud Functions
+
+💡 Looking to collaborate on IoT projects, mobile app development, and embedded systems.
 - 📫 How to reach me:
 -             Personal Email: rajabdullah236@gmail.com
--             University Email: 20-ce-035@student.hitecuni.edu.pk
 -             Linkedin: https://www.linkedin.com/in/raja-abdullah-javed-a56784242/
 
 <!---
